@@ -25,7 +25,7 @@
   ],
   "engines": [],
   "dependencies": {
-    "cordova-plugin-fcm-with-dependecy-updated": "https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated"
+    "cordova-plugin-fcm": "https://github.com/fechanique/cordova-plugin-fcm"
   },
   "author": "André Augusto Tissot",
   "license": "MIT",
